@@ -1,13 +1,3 @@
 hi i'm backend - dev 
 asdfasdfasdf
 asdfefasd
-
-
-test.txt 
-
-head                   |||           main
-
-hi i'm backend - dev        hi i'm backend - dev 
-asdfasdfasdf                asdfasdfasdf
-asdfefasd                   config => here 
-                            asdfczvvasd
